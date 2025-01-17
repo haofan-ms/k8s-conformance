@@ -5,7 +5,7 @@
 Download AKS Engine.
 
 ```bash
-VERSION=v0.81.0
+VERSION=v0.81.1
 curl -L -o aks-engine-azurestack-darwin.tar.gz https://github.com/Azure/aks-engine-azurestack/releases/download/${VERSION}/aks-engine-azurestack-${VERSION}-darwin-amd64.tar.gz
 mkdir ./aks-engine-azurestack; tar xzf aks-engine-azurestack-darwin.tar.gz -C ./aks-engine-azurestack
 ```
